@@ -4,7 +4,7 @@ import { GoodMorning } from "./components/GoodMorning";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
-const myAge=41;
+
 
 const parentName = "Nikolas";
 

@@ -10,7 +10,7 @@ export function GoodMorning(props) {
       {React.createElement(Me, { ...props, age: "41" })} 
       Сейчас: {new Date().toLocaleTimeString()}!
       <hr/>
-      Best regards: <He name="Станислав" age="- возраст не известен"/>
+      Best regards: <He name="X" age="- возраст не известен"/>
       
   </div>;
 
