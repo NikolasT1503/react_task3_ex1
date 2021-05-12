@@ -13,7 +13,7 @@ function App(props) {
   ReactDOM.render(React.createElement(GoodMorning, {name: parentName}) , document.getElementById("root"));
 }
 
-setInterval(App, 1000);
+setInterval(App, 30000);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
